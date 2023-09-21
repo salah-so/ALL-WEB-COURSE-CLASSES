@@ -1,0 +1,14 @@
+.head { 
+  background-color: aquamarine;
+  color: blue;
+  text-align: center;
+  padding: 10px; 
+  border-radius: 45px;
+  
+}
+.paragraph { 
+  background-color: rgb(171, 196, 78);
+  text-align: center;
+  text-shadow: 10px;
+  
+}
