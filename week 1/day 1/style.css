@@ -7,8 +7,13 @@
   
 }
 .paragraph { 
-  background-color: rgb(171, 196, 78);
+  background-color: rgb(243, 250, 179);
   text-align: center;
   text-shadow: 10px;
   
+}
+table,TH, td {
+  border:1px solid black;
+  width:fit-content;
+padding: 10px;
 }
