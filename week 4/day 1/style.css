@@ -1,4 +1,6 @@
-
+body {
+    background-color:rgb(79, 95, 76);
+}
 h1 {  
     text-align: center;  
     padding: 23px;  
@@ -48,4 +50,15 @@ border: 7px solid rgb(251, 12, 12);
     padding: 20px;  
     margin: auto;  
 }  
-  
+.operators{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    border:red;
+}
+  .equal{
+    background-color: green;
+  }
+  form1.answer.value {
+    color: red;
+  }
