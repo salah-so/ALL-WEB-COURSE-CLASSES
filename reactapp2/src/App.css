@@ -14,7 +14,7 @@
 
 body {
   font-family: var(--font-roboto);
-  background-color: #212426;
+  background-color: #2d3134;
 }
 
 .app {
@@ -167,7 +167,7 @@ h1 {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   font-size: 13px;
-  letter-spacing: 2px;
+  letter-spacing: 5px;
   font-weight: 500;
   color: #f0f0f0;
 }
@@ -180,7 +180,7 @@ h1 {
 
 .movie:hover div:nth-of-type(2) {
   height: 100%;
-  opacity: 0.3;
+  opacity: 0.5;
 }
 
 .movie:hover div:nth-of-type(3) {
